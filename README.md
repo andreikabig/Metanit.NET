@@ -1,2 +1,2 @@
 # Metanit.NET
-Study Metanit
+Study Metanit C#.
